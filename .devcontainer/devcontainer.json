@@ -1,0 +1,5 @@
+{
+  "features": {
+    "ghcr.io/defang-io/devcontainer-feature/defang-cli:latest": {}
+  }  
+}
